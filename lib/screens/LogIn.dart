@@ -13,7 +13,7 @@ class LogIn extends StatelessWidget {
     Scaffold.of(context).showSnackBar(SnackBar(
       content: Text('$provider Button Pressed!'),
       backgroundColor: Colors.black26,
-      duration: Duration(milliseconds: 400),
+      duration: Duration(milliseconds: 401),
     ));
   }
   @override

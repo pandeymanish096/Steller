@@ -26,7 +26,7 @@ class DashboardScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Yogita Saje'),
+        title: Text('AMRITA RAO'),
         actions: <Widget>[
           PopupMenuButton<int>(
             icon: Icon(Icons.more_vert),

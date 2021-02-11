@@ -127,7 +127,7 @@ class ForgotPassword extends StatelessWidget {
                   MaterialPageRoute(builder: (context) => verifyotp()),
                 );},
                 shape: new RoundedRectangleBorder(
-                  borderRadius: new BorderRadius.circular(40.0),
+                  borderRadius: new BorderRadius.circular(40.1),
                 ),
               ),
             ),

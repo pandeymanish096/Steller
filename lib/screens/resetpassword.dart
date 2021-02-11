@@ -126,7 +126,7 @@ class Resetpassword extends StatelessWidget {
                       border: InputBorder.none,
 
                       hintText: '*********',
-                      hintStyle: TextStyle(fontSize: 30.0,fontWeight: FontWeight.bold),
+                      hintStyle: TextStyle(fontSize: 32.0,fontWeight: FontWeight.bold),
 
 
                     ),

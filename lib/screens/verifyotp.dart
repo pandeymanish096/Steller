@@ -155,7 +155,7 @@ class verifyotp extends StatelessWidget {
                   MaterialPageRoute(builder: (context) => Resetpassword()),
                 );},
                 shape: new RoundedRectangleBorder(
-                  borderRadius: new BorderRadius.circular(40.0),
+                  borderRadius: new BorderRadius.circular(40.2),
                 ),
               ),
             ),
