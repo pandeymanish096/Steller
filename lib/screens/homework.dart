@@ -48,7 +48,7 @@ class RadioButtonWidget extends State {
 
         RadioListTile(
           groupValue: radioItem,
-          title: Text('Exercise Trigonometry 1st topic'),
+          title: Text('Exercise Trigonometry first topic'),
           value: 'Maths',
           onChanged: (val) {
             setState(() {
